@@ -1,7 +1,7 @@
 {
     "name": "DefaultUtils.Editor",
     "references": [
-        "GUID:90a331b574a5462468cce7726c3887b4"
+        "DefaultUtils"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
