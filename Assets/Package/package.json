@@ -1,6 +1,6 @@
 {
     "name": "com.alinouski.default-utils",
-    "version" : "1.0.0",
+    "version" : "1.0.1",
     "displayName": "Default utils",
     "unity": "2018.3",
     "description": "Package containing features for unity"
