@@ -3,5 +3,10 @@
     "version" : "1.0.1",
     "displayName": "Default utils",
     "unity": "2018.3",
-    "description": "Package containing features for unity"
+    "description": "Package containing features for unity",
+    "dependencies":
+    {
+        "com.unity.ugui": "1.0.0"
+    }
+    
 }
